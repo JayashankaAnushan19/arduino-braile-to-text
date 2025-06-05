@@ -44,6 +44,9 @@ Test on simulation with Serial Monitor<br>
 First stage simulation:<br>
 [![Arduino Braille-to-Text: First Stage Simulation](https://img.youtube.com/vi/aSMoH1FwMBk/0.jpg)](https://www.youtube.com/watch?v=aSMoH1FwMBk)
 
+Hardware Demostration:<br>
+[![Arduino Braille-to-Text: Hardware Demostration](https://img.youtube.com/vi/hloTcTfTxGg/0.jpg)](https://www.youtube.com/watch?v=hloTcTfTxGg)
+
 
 ## Benefits
 1. Empowering Communication: Helps individuals with combined visual and speech impairments communicate more effectively.
